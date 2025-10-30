@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Robin Jose (Computer Science Student)</h1>
 <h3 align="center">A passionate Frontend and Fullstack developer [MERN]</h3>
 
+- I like exploring various AI tools..
+- I’m currently learning DSA...
+- I would like to automate my daily tasks...
+- I focus more on Productivity...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinjose24&label=Profile%20views&color=0e75b6&style=flat" alt="robinjose24" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/robin-jose-robert-186062249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robin-jose-robert-186062249" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/robin-jose-robert-186062249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robin-jose-robert-186062249" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robin_jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin_jose" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/robinjosezrba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="robinjosezrba" height="30" width="40" /></a>
 </p>
@@ -18,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinjose24&show_icons=true&locale=en" alt="robinjose24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinjose24&" alt="robinjose24" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/robin_jose?theme=dark&font=Play)
