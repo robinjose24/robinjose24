@@ -9,8 +9,10 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
+<h3>LinkedIn</h3>
 <a href="https://www.linkedin.com/in/robin-jose-robert-186062249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/robin-jose-robert-186062249" height="30" width="40" /></a>
-  
+
+<h3>Coding Platforms</h3>
 <a href="https://www.leetcode.com/robin_jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robin_jose" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/robinjosezrba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="robinjosezrba" height="30" width="40" /></a>
 </p>
